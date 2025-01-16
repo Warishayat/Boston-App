@@ -85,8 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Contributing**: Encouragement for others to contribute to the project.
 - **License**: Add a license (MIT or others) to clarify the terms of use.
 
-### Next Steps:
-- Replace `https://github.com/yourusername/boston-price-prediction.git` with the actual GitHub repository link once you push the code.
-- If you add any additional files or documentation, make sure to update the structure section accordingly.
-
-Let me know if you need any further modifications!
+=
